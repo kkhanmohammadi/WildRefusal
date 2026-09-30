@@ -8,8 +8,8 @@ The dataset is derived from coding-related conversations in the WildChat dataset
 
 The repository contains:
 
-- **WildRefusal dataset** – validated refusal-circumvention conversations and their annotations.
-- **Refusal dataframe (`.pkl`)** – the intermediate dataframe containing conversations identified as exhibiting refusal behavior.
+- **WildRefusal Study dataset** – validated refusal-circumvention conversations and their annotations.
+- **Refusal dataframe (`.pkl`)** – the dataframe containing conversations identified as exhibiting refusal behavior.
 
 The dataset captures the complete multi-turn conversational context, enabling analysis of how users adapt their requests following a refusal.
 
